@@ -9,5 +9,11 @@
         <module name="CVDS-LAB05" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
+=======
+    <bytecodeTargetLevel>
+      <module name="CVDS-LAB05" target="1.7" />
+    </bytecodeTargetLevel>
+>>>>>>> 07859744a2c776bea9dbd59eafa1c7102f0d8875
   </component>
 </project>
